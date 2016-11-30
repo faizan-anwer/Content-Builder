@@ -1,0 +1,85 @@
+<!-- BEGIN PAGE CONTENT -->
+        <div class="page-content">
+        
+           <!-- BEGIN PAGE HEADINGS -->
+           <div class="portlet">
+            <div class="portlet-body">
+                <div class="page-heading">
+                    <div class="col-xs-12 zero-padding">
+                        <h1>Overview</h1>
+                        <div>
+                            <a href="javascript:;">STRATEGY</a>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+           </div>
+           <!-- END PAGE HEADINGS -->
+           
+           <!-- BEGIN INSTRUCTION
+           <div class="portlet">
+                <div class="portlet-body">
+                    <div class="alert alert-success alert-dismissible zero-margin" role="alert">
+                        <button type="button" class="close" data-dismiss="alert">
+                            <span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+                        </button>
+                        <strong>Whoo Hoo! A new course!</strong>
+                        Complete each section in the left navigation panel to build your course and publish it.
+                    </div>
+                </div>
+           </div>
+           END INSTRUCTION -->
+           
+           <!-- BEGIN SUMMARY FORM PORTLET -->
+           <div class="portlet">
+              <div class="portlet-body form">
+                 <form class="form-horizontal" role="form">
+                    <div class="form-body">
+                       <div class="form-group">
+                          <label  class="col-md-3 control-label">Title<span class="required">*</span></label>
+                          <div class="col-md-6">
+                             <input type="text" class="form-control" placeholder="Enter course title.">
+                          </div>
+                       </div>
+                       <div class="form-group">
+                          <label  class="col-md-3 control-label">Description<span class="required">*</span></label>
+                          <div class="col-md-6">
+                             <textarea class="form-control" rows="3" placeholder="Enter words or phrases that help describe the course."></textarea>
+                          </div>
+                       </div>
+                       <div class="form-group">
+                          <label  class="col-md-3 control-label">Language<span class="required">*</span></label>
+                          <div class="col-md-6">
+                             <select  class="form-control">
+                                <option>English</option>
+                                <option>Spanish</option>
+                             </select>
+                          </div>
+                       </div>
+                       <div class="form-group">
+                          <label  class="col-md-3 control-label">Duration (Hours)</label>
+                          <div class="col-md-6">
+                             <input type="text" class="form-control"  placeholder="Enter course duration.">
+                          </div>
+                       </div>
+                       <div class="form-group">
+                          <label  class="col-md-3 control-label">Keywords</label>
+                          <div class="col-md-6">
+                             <input type="text" class="form-control" data-role="tagsinput" placeholder="Enter keywords.">
+                          </div>
+                       </div>
+                    </div>
+                    <div class="form-actions fluid">
+                       <div class="col-md-offset-3 col-md-9">
+                          <button type="button" class="btn blue" onclick="APP.SAVE_OVERVIEW()">Save</button>
+                          <button type="button" class="btn default">Cancel</button>                              
+                       </div>
+                    </div>
+                 </form>
+              </div>
+           </div>
+           <!-- END SUMMARY FORM PORTLET -->
+           
+        </div>
+<!-- END PAGE CONTENT -->

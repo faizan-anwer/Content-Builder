@@ -1,0 +1,51 @@
+<!-- BEGIN PAGE CONTENT -->
+         <div class="page-content">
+					
+					<!-- BEGIN ONLINE COURSE TYPE -->
+					<div class="portlet">
+						<div class="portlet-body">
+							<h1>What type will it be?</h1>
+							<br/>
+							<div class="tiles">
+								<div class="col-md-offset-2">
+									<div class="tile box bg-gray">
+									   <div class="tile-body text-center">
+											<h4>Quick Build Course</h4>
+											<img src="assets/img/icons/q_b_course.png" alt="Quick Build Course" class="box-image">
+									   </div>
+									   <div class="tile-object">
+											<div>
+											   Turn a PowerPoint or a video into a complete course in a couple of clicks.
+											</div>
+									   </div>
+									</div>
+									<div class="tile box bg-gray" onclick="window.open('course_overview.html','_self')">
+									   <div class="tile-body text-center">
+											<h4>Online Course</h4>
+											<img src="assets/img/icons/o_course.png" alt="Online Course" class="box-image">
+									   </div>
+									   <div class="tile-object">
+											<div>
+											   Create an online course supporting multiple pages, activities, and assessments.
+											</div>
+									   </div>
+									</div>
+									<div class="tile box bg-gray">
+									   <div class="tile-body text-center">
+											<h4>Traditional Course</h4>
+											<img src="assets/img/icons/t_course.png" alt="Traditional Course" class="box-image">
+									   </div>
+									   <div class="tile-object">
+											<div>
+											   Love our old desktop system for creating courses, or need its power? Access it here.
+											</div>
+									   </div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- END ONLINE COURSE TYPE -->
+                   
+                </div>
+<!-- END PAGE CONTENT -->

@@ -1,0 +1,84 @@
+  <!-- Left Panel Begin -->
+            <div id="leftNavPanel" class="left-nav-panel">
+                <div class="thumb-btn">
+                    <a class="collapse-btn-icon" onClick="toggle_leftNavPanel()"></a>
+                </div>
+                
+                <div class="list-holder" style="width:42px">
+                    <ul class="list-group only-icon-panel">
+
+                        <!-- Overview -->
+                        <li class="list-group-item">
+                            <a class="btn-sub-group" id="nav_accordion_0">
+                                <i class="glyphicon glyphicon-book"></i>
+                                <span>Overview</span>
+                            </a>
+                        </li>
+					
+						<!-- Content -->
+                        <li class="list-group-item">
+                            <a class="btn-sub-group" id="nav_accordion_1">
+                                <i class="glyphicon glyphicon-list-alt"></i>
+                                <span>Content</span>
+                            </a>
+                        </li>
+						
+                        <!-- Settings -->
+                        <li class="list-group-item">
+                            <a class="btn-sub-group" id="nav_accordion_2">
+                                <i class="icon-cog"></i>
+                                <span>Settings</span>
+                            </a>
+                        </li>
+                                                
+                        <!-- Publishing -->
+                        <li class="list-group-item">
+                            <a class="btn-sub-group open-sign" id="nav_accordion_3">
+                                <i class="glyphicon glyphicon-download-alt"></i>
+                                <span>Publishing</span>
+                                <b></b>
+                            </a>
+                            
+                            <ul class="list-sub-group">
+                                <li class="list-group-item">
+                                    <a href="course_availability.html">
+                                        <i></i>
+                                        <span>Set Availability</span>
+                                        <b></b>
+                                    </a>
+                                </li>
+                                <li class="list-group-item">
+                                    <a href="course_pricing.html">
+                                        <i></i>
+                                        <span>Set Pricing</span>
+                                        <b></b>
+                                    </a>
+                                </li>
+                                <li class="list-group-item">
+                                    <a href="course_marketing.html">
+                                        <i></i>
+                                        <span>Set Marketing</span>
+                                        <b></b>
+                                    </a>
+                                </li>
+								<li class="list-group-item">
+                                    <a href="course_publish.html">
+                                        <i></i>
+                                        <span>Publish Course</span>
+                                        <b></b>
+                                    </a>
+                                </li>
+                                <li class="list-group-item">
+                                    <a href="course_offer.html">
+                                        <i></i>
+                                        <span>Offer on 360 Marketplace</span>
+                                        <b></b>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                         
+                    </ul>
+                </div>
+            </div>
+  <!-- Left Panel End -->

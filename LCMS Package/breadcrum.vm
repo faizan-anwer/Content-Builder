@@ -1,0 +1,27 @@
+<!-- Workspace Begin -->
+      <div id="contentHolder" class="content-holder">
+			
+				<!-- BEGIN BREADCRUMB BAR CONTENT -->
+                <div>
+                	<!-- Breadcrumb -->
+                    <div class="col-xs-8">
+                        <ol class="breadcrumb">
+                        	<li>Author and Teach</li>
+                        	<li><a href="dashboard.html">Dashboard</a></li>
+							<li><a href="course_type.html">Create</a></li>
+                            <li>Course Name (360-123456-001)</li>
+                        </ol>
+                    </div>
+					
+					<!-- Edit/View Toggle -->
+                    <div class="col-xs-4 zero-right-padding">
+                        <span class="pull-right">
+                        	<input type='checkbox' name='VEToggle' id='VEToggle' value='1' class='toggleswitch' checked='checked' />
+                        </span>
+                    </div>
+                </div>
+                <!-- END BEGIN BREADCRUMB BAR CONTENT -->
+				
+                <div class="clearfix"></div>
+
+               
